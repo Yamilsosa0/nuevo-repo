@@ -1,3 +1,5 @@
 texto
 
 agregando contenido
+agregando mas texto al archivo
+>>>>>>> 01f4095056b555de9d624eb3ee2f343dcab7b597
